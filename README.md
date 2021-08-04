@@ -7,15 +7,15 @@ This project added weather infomation to each city. And then, people can restrci
 *Vacation Itinerary*: [Vacation_Itinerary.ipynb](https://github.com/cffhr99/Module6-Challenge/blob/main/Vacation_Itinerary/Vacation_Itinerary.ipynb), [WeatherPy_travel_map.PNG](https://github.com/cffhr99/Module6-Challenge/blob/main/Vacation_Itinerary/WeatherPy_travel_map.PNG), [WeatherPy_travel_map_markers.PNG](https://github.com/cffhr99/Module6-Challenge/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.PNG)
 ## Weather Database
 A random 2000 pairs of latitude and longitude were generated and then *citipy* was used to find nearest city of each pair of latitude and longitude. After removing missing data, *OpenWeather API* was used to provide the weather information, which was listed below, to each city:
-  -- City
-  -- Country
-  -- Latitude
-  -- Longitude
-  -- Maximum Temperature
-  -- Humidity	
-  -- Cloudiness	
-  -- Wind Speed	
-  -- Current Description
+  - City
+  - Country
+  - Latitude
+  - Longitude
+  - Maximum Temperature
+  - Humidity	
+  - Cloudiness	
+  - Wind Speed	
+  - Current Description
 ## Vacation Search
 
 ## Vacation Itinerary
