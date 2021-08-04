@@ -17,5 +17,8 @@ A random 2000 pairs of latitude and longitude were generated and then *citipy* w
   - Wind Speed	
   - Current Description
 ## Vacation Search
-
+Using *Google Map API*, people can find nearest hotel to the cities they selected.
+![WeatherPy_vacation_map.PNG](https://github.com/cffhr99/Module6-Challenge/blob/main/Vacation_Search/WeatherPy_vacation_map.PNG)  
 ## Vacation Itinerary
+Selecting some cities,(here 4 cities were selected as an example) *Google Direction API* was used to provide the route between those cities.
+![WeatherPy_travel_map.PNG](https://github.com/cffhr99/Module6-Challenge/blob/main/Vacation_Itinerary/WeatherPy_travel_map.PNG)
